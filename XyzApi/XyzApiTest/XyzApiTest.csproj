@@ -18,8 +18,5 @@
   <ItemGroup>
     <ProjectReference Include="..\XyzApi\XyzApi.csproj" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="SQLite\Schema" />
-  </ItemGroup>
   
 </Project>
