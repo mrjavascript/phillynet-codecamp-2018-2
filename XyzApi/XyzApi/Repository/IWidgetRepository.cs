@@ -8,6 +8,5 @@ namespace XyzApi.Repository
     {
         Task<IEnumerable<Widget>> GetWidgets();
         Task AddWidget(string widgetName);
-        Task CreateSqliteSchema(string script);
     }
 }
