@@ -1,10 +1,7 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using Dapper;
-using Microsoft.AspNetCore.Builder;
-using SQLitePCL;
 using XyzApi.Models;
-using XyzApi.Services.Impl;
 using XyzApi.Utility;
 
 namespace XyzApi.Repository.Impl
